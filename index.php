@@ -1,4 +1,4 @@
-<?php echo 'hola'; ?>
+<?php include('log_reg.html'); ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
